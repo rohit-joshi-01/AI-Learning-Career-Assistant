@@ -28,7 +28,7 @@ See `docs/architecture.md` for a longer version of the pipeline and the confiden
 
 ### Steps
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rohit-joshi-01/AI-Learning-Career-Assistant
 cd AI_Learning_Career_Assistant_Complete
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
