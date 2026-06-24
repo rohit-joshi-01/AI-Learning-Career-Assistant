@@ -1,0 +1,108 @@
+skill,category
+Python,Programming
+JavaScript,Programming
+TypeScript,Programming
+Java,Programming
+C++,Programming
+SQL,Programming
+R,Programming
+Go,Programming
+Rust,Programming
+Bash,Programming
+pandas,Data & ML
+NumPy,Data & ML
+scikit-learn,Data & ML
+Matplotlib,Data & ML
+Seaborn,Data & ML
+TensorFlow,Data & ML
+PyTorch,Data & ML
+XGBoost,Data & ML
+Spark,Data & ML
+Airflow,Data & ML
+dbt,Data & ML
+A/B Testing,Data & ML
+Feature Engineering,Data & ML
+spaCy,NLP
+NLTK,NLP
+Transformers,NLP
+Hugging Face,NLP
+BERT,NLP
+RAG,NLP
+Embeddings,NLP
+Tokenization,NLP
+Prompt Engineering,NLP
+OpenCV,Computer Vision
+Image Processing,Computer Vision
+CNN,Computer Vision
+Object Detection,Computer Vision
+Segmentation,Computer Vision
+OCR,Computer Vision
+FastAPI,Backend
+Flask,Backend
+Django,Backend
+PostgreSQL,Backend
+MongoDB,Backend
+Redis,Backend
+REST APIs,Backend
+GraphQL,Backend
+Microservices,Backend
+Celery,Backend
+React,Frontend
+Next.js,Frontend
+HTML,Frontend
+CSS,Frontend
+Tailwind CSS,Frontend
+UI/UX,Frontend
+Redux,Frontend
+Docker,Cloud & DevOps
+Kubernetes,Cloud & DevOps
+Linux,Cloud & DevOps
+CI/CD,Cloud & DevOps
+AWS,Cloud & DevOps
+Azure,Cloud & DevOps
+GCP,Cloud & DevOps
+Terraform,Cloud & DevOps
+Ansible,Cloud & DevOps
+Monitoring,Cloud & DevOps
+Logging,Cloud & DevOps
+IAM,Security
+Network Security,Security
+Threat Modeling,Security
+Secure Coding,Security
+OAuth,Security
+SAST,Security
+Communication,Soft Skills
+Problem Solving,Soft Skills
+Teamwork,Soft Skills
+Leadership,Soft Skills
+Presentation,Soft Skills
+Analytical Thinking,Soft Skills
+Airflow,Data Engineering
+ETL,Data Engineering
+Data Warehousing,Data Engineering
+Model Deployment,MLOps
+Model Monitoring,MLOps
+Feature Stores,MLOps
+Docker,MLOps
+Kubernetes,MLOps
+LLMs,Generative AI
+Prompt Tuning,Generative AI
+RAG,Generative AI
+Tableau,Analytics
+Power BI,Analytics
+Looker,Analytics
+Statistics,Analytics
+Android,Mobile
+iOS,Mobile
+PyTest,Testing
+Unit Testing,Testing
+Integration Testing,Testing
+Roadmapping,Product
+Experimentation,Product
+CRM,Sales
+Lead Qualification,Sales
+Figma,Design
+Wireframing,Design
+Literature Review,Research
+Experiment Design,Research
+Statistical Analysis,Research

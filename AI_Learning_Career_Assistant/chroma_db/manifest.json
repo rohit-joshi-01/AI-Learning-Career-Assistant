@@ -1,0 +1,8 @@
+{
+  "backend": "local-json-fallback",
+  "collections": [
+    "internships",
+    "careers",
+    "learning_resources"
+  ]
+}
