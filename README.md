@@ -111,10 +111,6 @@ All component values are normalised to the range 0.0–1.0, and the final confid
 - Expand the dataset with more real-world internship and career records.
 - Add user authentication and a save/share workflow with privacy controls.
 
-## Demo Video
-
-Add your 3–5 minute demo video link here.
-
 ## Deliverables Included
 
 - FastAPI backend
